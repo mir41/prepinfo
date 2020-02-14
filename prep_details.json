@@ -1,0 +1,28 @@
+{
+    "representative": {
+        "logo": {
+            "logo_256": "https://icon.foundation/img/img-256.png",
+            "logo_1024": "https://icon.foundation/img/img-1024.png",
+            "logo_svg": "https://icon.foundation/img/img-logo.svg"
+        },
+        "media": {
+            "steemit": "",
+            "twitter": "",
+            "youtube": "",
+            "facebook": "",
+            "github": "",
+            "reddit": "",
+            "keybase": "",
+            "telegram": "",
+            "wechat": ""
+        }
+    },
+    "server": {
+        "location": {
+            "country": "",
+            "city": ""
+        },
+        "server_type": "",
+        "api_endpoint": ""
+    }
+}

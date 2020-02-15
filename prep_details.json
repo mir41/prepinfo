@@ -7,7 +7,7 @@
         },
         "media": {
             "steemit": "",
-            "twitter": "www.twitter.com",
+            "twitter": "",
             "youtube": "",
             "facebook": "",
             "github": "",
@@ -22,7 +22,7 @@
             "country": "",
             "city": ""
         },
-        "server_type": "cloud",
+        "server_type": "",
         "api_endpoint": "31.208.165.65:9000"
     }
 }

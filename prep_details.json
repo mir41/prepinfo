@@ -22,7 +22,7 @@
             "country": "",
             "city": ""
         },
-        "server_type": "",
+        "server_type": "cloud",
         "api_endpoint": "31.208.165.65:9000"
     }
 }

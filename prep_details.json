@@ -1,9 +1,9 @@
 {
     "representative": {
         "logo": {
-            "logo_256": "https://raw.githubusercontent.com/mir41/prepinfo/master/logo.jpg",
-            "logo_1024": "https://raw.githubusercontent.com/mir41/prepinfo/master/logo.jpg",
-            "logo_svg": "https://raw.githubusercontent.com/mir41/prepinfo/master/logo.jpg"
+            "logo_256": "https://raw.githubusercontent.com/mir41/prepinfo/master/logo.png",
+            "logo_1024": "https://raw.githubusercontent.com/mir41/prepinfo/master/logo.png",
+            "logo_svg": "https://raw.githubusercontent.com/mir41/prepinfo/master/logo.png"
         },
         "media": {
             "steemit": "",

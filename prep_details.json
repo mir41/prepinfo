@@ -1,9 +1,9 @@
 {
     "representative": {
         "logo": {
-            "logo_256": "https://icon.foundation/img/img-256.png",
-            "logo_1024": "https://icon.foundation/img/img-1024.png",
-            "logo_svg": "https://icon.foundation/img/img-logo.svg"
+            "logo_256": "https://raw.githubusercontent.com/mir41/prepinfo/master/logo.jpg",
+            "logo_1024": "https://raw.githubusercontent.com/mir41/prepinfo/master/logo.jpg",
+            "logo_svg": "https://raw.githubusercontent.com/mir41/prepinfo/master/logo.jpg"
         },
         "media": {
             "steemit": "",

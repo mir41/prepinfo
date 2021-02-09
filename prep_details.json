@@ -1,13 +1,13 @@
 {
     "representative": {
         "logo": {
-            "logo_256": "https://raw.githubusercontent.com/mir41/prepinfo/master/logo.png",
-            "logo_1024": "https://raw.githubusercontent.com/mir41/prepinfo/master/logo.png",
-            "logo_svg": "https://raw.githubusercontent.com/mir41/prepinfo/master/logo.png"
+            "logo_256": "",
+            "logo_1024": "",
+            "logo_svg": ""
         },
         "media": {
             "steemit": "",
-            "twitter": "https://twitter.com/mirai_prep",
+            "twitter": "",
             "youtube": "",
             "facebook": "",
             "github": "",
